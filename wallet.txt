@@ -1,0 +1,4 @@
+key wallet Cryptoofficial3d
+and address contract wallet
+
+save in file  .txt
